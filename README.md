@@ -2,6 +2,8 @@
 
 -Calculator: to perform calculations
 
+-Calendar: to keep track of the passage of days, weeks, months, and years.
+
 -Generator: to generate random values
 
 -Launcher: to launch compatible programs (all listed are compatible)
