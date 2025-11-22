@@ -14,7 +14,11 @@
 
 -Monitor: to keep track of cycles
 
+-Password: to manage your secret conventions
+
 -Sorter: to sort data
+
+-Text: to read/write text files.
 
 -Timer: to track time
 
